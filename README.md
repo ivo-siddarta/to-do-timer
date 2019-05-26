@@ -1,5 +1,5 @@
 ## Web Application
-to-do-timer.netlify.com
+https://to-do-timer.netlify.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
